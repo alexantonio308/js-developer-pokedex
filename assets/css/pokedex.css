@@ -163,3 +163,20 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
+
+.backgroundPoke{
+    width: 100%;
+    background-image: url('/assets/img/azul.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    img{
+        width: 100%;
+    }
+}
+
+.card{
+    padding: 5px;
+
+}
